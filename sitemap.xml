@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https://abewartech.github.io/project/nyambungin</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://abewartech.github.io/project/cakrawala-fluidtek</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://abewartech.github.io/project/weekly-report</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://abewartech.github.io/project/cakrawala-bst-desktop</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://abewartech.github.io/project/versinema</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://abewartech.github.io/project/barracuda-cam</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://abewartech.github.io/project/kriya</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://abewartech.github.io/project/node-red-laravel-websockets</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://abewartech.github.io/project/home-automation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://abewartech.github.io/project/cakrawala-datalink</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://abewartech.github.io/project/takoyae</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://abewartech.github.io/project/pindai-media-komunika</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://abewartech.github.io/project/mediasoft</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -43,7 +40,6 @@
 <url> <loc>https://abewartech.github.io/project/tags/laravel/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://abewartech.github.io/project/tags/laravel-websockets/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://abewartech.github.io/project/tags/leaflet/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://abewartech.github.io/project/tags/lumen/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://abewartech.github.io/project/tags/mob-x/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://abewartech.github.io/project/tags/mongo-db/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://abewartech.github.io/project/tags/node-red/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -57,7 +53,6 @@
 <url> <loc>https://abewartech.github.io/project/tags/swing/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://abewartech.github.io/project/tags/ui-kitten/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://abewartech.github.io/project/tags/voyager/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://abewartech.github.io/project/tags/web-socket/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://abewartech.github.io/project/tags/woocommerce/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://abewartech.github.io/project/tags/wordpress/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://abewartech.github.io/project/tags/xendit/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
